@@ -1,0 +1,27 @@
+{
+    "id": "A283ACF0",
+    "path": "~/Desktop/RStudio/alternate_test_lbewlay/r file.R",
+    "project_path": "r file.R",
+    "type": "r_source",
+    "hash": "3210797691",
+    "contents": "",
+    "dirty": false,
+    "created": 1613937928305.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,31",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1613937940,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1613937940614,
+    "read_only": false,
+    "read_only_alternatives": []
+}
